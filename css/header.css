@@ -10,6 +10,7 @@
   font-weight: 500;
   line-height: 1.5;
   color: #2e2f42;
+  letter-spacing: 0.02em
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -28,6 +29,7 @@
   line-height: 1.5;
   color: #434455;
   font-style: normal;
+  letter-spacing: 0.02em;
 }
 .contacts-info:hover,
 .contacts-info:focus {
